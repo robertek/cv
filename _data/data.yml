@@ -103,24 +103,24 @@ experiences:
         time: 2022 - Present
         company: Oracle corp.
         details: |
-          Continue working on the DTrace tracing framework. Touched the compilers
+          Continue working on the DTrace tracing framework and MDB. I have started with the compilers
           and mainly its debugging data formats (DWARF,CTF).
-          Took over the C++ part of the Developer Studio compiler.
+          I took over the C++ part of the Developer Studio compiler during this period.
       - role: Senior Software Engineer
         time: 2018 - 2022
         company: Oracle corp.
         details: |
-          DTrace and MDB maintenance. Being an owner of DTrace tracing framework.
-          It's enhancement and fixing. I was also a part of MDB (debuggers) team.
-          Working mainly in C and Assembly (X86 and Sparc).
-          Get in touch with a lot of advanced performance and parallel/lock-less algorithms.
-          Still as a UFS owner, I had a younger college to mentor in that area.
+          DTrace and MDB maintenance. I became an owner of the DTrace system and kernel tracing framework,
+          it's enhancements and fixing. I was also a part of the MDB (debuggers) team, mainly for reviews and small enhancements.
+          Working in C and Assembly (X86 and Sparc).
+          I got in touch with a lot of advanced tricks, performance and parallel/lock-less algorithms.
+          Still being a UFS owner, I had a younger college to mentor in that area.
       - role: Software Engineer
         time: 2014 - 2018
         company: Oracle corp.
         details: |
           File system team. My task was the maintenance and ownership of the legacy 
-          UFS file-system on Solaris Unix. Later also did the same for ZFS.
+          UFS file-system on Solaris Unix. I did also the same for ZFS later.
           It was mainly about diagnosing and debugging issues.
           Then proposing a fix and implement it. Written mainly C and shell code.
       - role: QE Engineer
@@ -135,7 +135,7 @@ experiences:
         time: 2008 - 2011
         company: Zonio
         details: |
-          Worked as an architect and implementer of various customer solutions.
+          I worked as an architect and implementer of various customer solutions.
           Consisting from firewalls, storage, virtualization, back-ends, etc.
           Needed a broad ecosystem knowledge and did a lot of shell and Perl programming.
       - role: Linux admin
