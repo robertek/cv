@@ -16,7 +16,7 @@ sidebar:
     email: robert.david@posteo.net
     phone: +420 773 792 896
     timezone: Europe/Prague Timezone
-    citizenship:
+    citizenship: Czech (EU)
     website: 
     linkedin: robert-david-55105110
     xing: 
@@ -37,7 +37,7 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
+          level: Advanced
 
         - idiom: German
           level: Intermediate
@@ -67,8 +67,8 @@ career-profile:
       I have a strong knowledge in the UNIX/Linux ecosystem from the bottom up.
       Being working in this area professionally or non-professionally from 2001.
       I have a very good problem solving, diagnostics and debugging background.
-      I'm being known for accepting non-easy challenges. 
-      And the whole career I'm learning a new stuff.
+      I'm being known for accepting non-trivial challenges. 
+      And the whole career, I'm learning a new things.
 
 education:
     title: Education
