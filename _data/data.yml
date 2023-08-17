@@ -63,8 +63,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a software engineer, mainly focused on operating systems and backends.
+      I'm a software engineer, mainly focused on operating systems and back-ends.
       I have a strong knowledge in the UNIX/Linux ecosystem from the bottom up.
+      Being working in this area professionally or non-professionally from 2001.
+      I have a very good problem solving, diagnostics and debugging background.
+      I'm being known for accepting non-easy challenges. 
+      And the whole career I'm learning a new stuff.
 education:
     title: Education
     info:
@@ -72,7 +76,7 @@ education:
         university: Czech Technical University in Prague
         time: 2012 - 2014
         details: |
-          I was focused on information systems and heterogenous computing.
+          I was focused on information systems and heterogeneous computing.
           The topic of my master thesis was contribution to an academic CPU
           simulator GEM5 for a complex low level simulations. The contribution 
           was a tracing framework for the cache subsystem and getting the syscall
@@ -85,6 +89,11 @@ education:
           The bachelor thesis was a contribution to the team creating an embedded 
           robotic vehicle. My task was to get everything working and optimized
           for a specific embedded system.
+      - degree: BSc in Mathematics
+        university: Charles University in Prague
+        time: 2005 - 2009
+        details: |
+          Theoretical and numerical mathematics.
 
 experiences:
     title: Experiences
@@ -93,36 +102,55 @@ experiences:
         time: 2022 - Present
         company: Oracle corp.
         details: |
+          Continue working on the DTrace tracing framework. Touched the compilers
+          and mainly its debugging data formats (DWARF,CTF).
+          Took over also the C++ compiler front-end work on Developer Studio compiler.
       - role: Senior Software Engineer
         time: 2018 - 2022
         company: Oracle corp.
         details: |
+          DTrace and MDB maintenance. Being an owner of DTrace tracing framework.
+          It's enhancement and fixing. I was also a part of MDB (debuggers) team.
+          Working mainly in C and Assembly (X86 and Sparc).
+          Get in touch with a lot of advanced performance and parallel/lock-less algorithms.
+          Still as a UFS owner, I had a younger college to mentor in that area.
       - role: Software Engineer
         time: 2014 - 2018
         company: Oracle corp.
         details: |
+          File system team. My task was the maintenance and ownership of the legacy 
+          UFS file-system on Solaris Unix. Later also did the same for ZFS.
+          It was mainly about diagnosing and debugging issues.
+          Then proposing a fix and implement it. Written mainly C and shell code.
       - role: QE Engineer
         time: 2011 - 2014
         company: Oracle corp.
         details: |
-
-projects:
-    title: Projects
-    intro: >
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+          Worked in the Solaris globalization team. 
+          The main topic was diagnosing and debugging the issues.
+          And then creating an infrastructure to automate it as much as possible.
+          I have also written a lot of shell and C conformance tests.
+      - role: Linux admin
+        time: 2008 - 2011
+        company: Zonio
+        details: |
+          Worked as an architect and implementer of various customer solutions.
+          Consisting from firewalls, storage, virtualization, back-ends, etc.
+          Needed a broad ecosystem knowledge and did a lot of shell and Perl programming.
+      - role: Linux admin
+        time: 2006 - 2011
+        company: Dum deti a mladeze hl.m. Prahy (Children's organization funded by Prague)
+        details: |
+          Site and Linux admin for a non-profit organization.
+          Various thin client solutions, Linux, backups, scripting.
 
 oss:
     title: OSS Contributions
     intro: >
-
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      I don't have a one project to focus contribution on. 
+      The whole my OSS participating time (from around 2001) I post patches, pull requests, create wikis whenever it is useful.
+      I'm the kind of person that tries not to reinvent the wheel when a lot of the wheels was already done.
+      So I enjoy learning and enhancing/contributing an existing OSS.
 
 skills:
     title: Skills &amp; Proficiency
@@ -145,6 +173,3 @@ skills:
 
       - name: Python
         level: 20%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
