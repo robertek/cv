@@ -2,10 +2,12 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
+theme_skin: green # blue turquoise green berry orange ceramic
+
 sidebar:
     position: right # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Robert David
@@ -40,7 +42,7 @@ sidebar:
           level: Professional
 
         - idiom: German
-          level: Beginner
+          level: Intermediate
 
     interests:
       title: Interests
@@ -69,6 +71,7 @@ career-profile:
       I have a very good problem solving, diagnostics and debugging background.
       I'm being known for accepting non-easy challenges. 
       And the whole career I'm learning a new stuff.
+
 education:
     title: Education
     info:
@@ -104,7 +107,7 @@ experiences:
         details: |
           Continue working on the DTrace tracing framework. Touched the compilers
           and mainly its debugging data formats (DWARF,CTF).
-          Took over also the C++ compiler front-end work on Developer Studio compiler.
+          Took over the C++ part of the Developer Studio compiler.
       - role: Senior Software Engineer
         time: 2018 - 2022
         company: Oracle corp.
