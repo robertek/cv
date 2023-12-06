@@ -153,6 +153,15 @@ oss:
       I'm the kind of person that tries not to reinvent the wheel when a lot of the wheels was already done.
       So I enjoy learning and enhancing/contributing an existing OSS.
 
+    title: OSS technologies
+    intro: >
+      20+ years of experience with Linux, kernel configuration, patching, Grub, u-boot, buildroot (and similar).
+      I'm actively using Void Linux, Gentoo Linux, OpenWRT.
+      I have also knowledge of FreeBSD (all my servers runs that for around a decade), I have created a port of FreeBSD to NanoPI NEO3.
+      I have a long term experience with ZFS on Linux (only as a user, because of my work conflict of interest), boot enviroments, snapshot management, replications, etc.
+      Since working in a debugers team I'm also able to use GDB (but have much more experience with Solaris MDB) and I'm aware of the modern Linux tracing possibilities (regularly use bpftrace).
+
+
 skills:
     title: Skills &amp; Proficiency
 
@@ -173,4 +182,7 @@ skills:
         level: 20%
 
       - name: Python
+        level: 20%
+
+      - name: Lua
         level: 20%
