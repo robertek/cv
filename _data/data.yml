@@ -146,20 +146,24 @@ experiences:
           Various thin client solutions, Linux, backups, scripting.
 
 oss:
-    title: OSS Contributions
+    title: OSS technologies
     intro: >
       I don't have a one project to focus contribution on. 
       The whole my OSS participating time (from around 2001) I post patches, pull requests, create wikis whenever it is useful.
       I'm the kind of person that tries not to reinvent the wheel when a lot of the wheels was already done.
       So I enjoy learning and enhancing/contributing an existing OSS.
 
-    title: OSS technologies
-    intro: >
-      20+ years of experience with Linux, kernel configuration, patching, Grub, u-boot, buildroot (and similar).
-      I'm actively using Void Linux, Gentoo Linux, OpenWRT.
-      I have also knowledge of FreeBSD (all my servers runs that for around a decade), I have created a port of FreeBSD to NanoPI NEO3.
-      I have a long term experience with ZFS on Linux (only as a user, because of my work conflict of interest), boot enviroments, snapshot management, replications, etc.
-      Since working in a debugers team I'm also able to use GDB (but have much more experience with Solaris MDB) and I'm aware of the modern Linux tracing possibilities (regularly use bpftrace).
+    contributions:
+      - title: Linux
+        tagline: "20+ years of experience with Linux, kernel configuration, patching, Grub, u-boot, buildroot (and similar)."
+      - title: Distributions
+        tagline: "I'm actively using Void Linux, Gentoo Linux, OpenWRT."
+      - title: FreeBSD
+        tagline: "I have also knowledge of FreeBSD (all my servers runs that for around a decade), I have created a port of FreeBSD to NanoPI NEO3."
+      - title: ZFS
+        tagline: "I have a long term experience with ZFS on Linux (only as a user, because of my work conflict of interest), boot enviroments, snapshot management, replications, etc."
+      - title: Debugging
+        tagline: "Since working in a debugers team I'm also able to use GDB (but have much more experience with Solaris MDB) and I'm aware of the modern Linux tracing possibilities (regularly use bpftrace)."
 
 
 skills:
